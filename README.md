@@ -1,2 +1,3 @@
 # ydRole
-ydRole - Bot with color changing roles!
+
+One of the best bot for rainbow roles!
